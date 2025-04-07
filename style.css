@@ -1,5 +1,5 @@
-/*@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');*/
-@import url('https://fonts.googleapis.com/css2?family=Wellfleet&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@400;700&display=swap');
+/*@import url('https://fonts.googleapis.com/css2?family=Wellfleet&display=swap');*/
 :root {
     --cor-de-fundo: #2a8bcb;
     --verde: #ffff00;
@@ -12,8 +12,8 @@
 body {
     background-color: var(--cor-de-fundo);
     color: var(--branco);
-    /*font-family: 'Chakra Petch', sans-serif;*/
-    font-family: 'Wellfleet', sans-serif;
+    font-family: 'Chakra Petch', sans-serif;
+    /*font-family: 'Wellfleet', sans-serif;*/
 }
 
 
@@ -71,7 +71,7 @@ body {
     background-color: var(--texto-fundo);
     padding: 40px;
     border-radius: 0 0 40px 40px;
-    font-family: 'Wellfleet', sans-serif;
+    /*font-family: 'Wellfleet', sans-serif;*/
 
 }
 
