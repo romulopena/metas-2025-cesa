@@ -11,6 +11,7 @@
 
 body {
     background-image: url(cronometro.jpg);
+    backface-visibility: 0.7;
     background-size: 1500px;
     background-repeat: no-repeat;
     opacity: 0.7;
