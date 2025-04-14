@@ -11,6 +11,7 @@
 
 body {
     background-image: url(cronometro.jpg);
+    background-size: 700px;
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
     /*font-family: 'Wellfleet', sans-serif;*/
