@@ -10,7 +10,7 @@
 }
 
 body {
-    background-color: var(--cor-de-fundo);
+    background-image: url(cronometro.jpg);
     color: var(--branco);
     font-family: 'Chakra Petch', sans-serif;
     /*font-family: 'Wellfleet', sans-serif;*/
